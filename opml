@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head><title>Overcast Podcast Subscriptions</title></head>
+  <body>
+    <outline text="feeds">
+
+      <outline type="rss" overcastId="38847" text="BahnCast" title="BahnCast" xmlUrl="http://bahncast.de/feed/mp3/" htmlUrl="http://bahncast.de/"/>
+      <outline type="rss" overcastId="121639" text="Resonator" title="Resonator" xmlUrl="https://resonator-podcast.de/feed/mp3/" htmlUrl="https://resonator-podcast.de/"/>
+      <outline type="rss" overcastId="549202" text="Das Interview. Mit Philip Banse" title="Das Interview. Mit Philip Banse" xmlUrl="https://www.kuechenstud.io/medienradio/feed/mp3/" htmlUrl="https://www.kuechenstud.io/medienradio"/>
+      <outline type="rss" overcastId="1142522" text="Percepticon.de" title="Percepticon.de" xmlUrl="https://percepticon.de/category/podcast/feed/podcast/" htmlUrl="https://percepticon.de/category/podcast/"/>
+      <outline type="rss" overcastId="3126727" text="t3n Podcast &#x2013; Das w&#xF6;chentliche Update f&#xFC;r digitale Pioniere" title="t3n Podcast &#x2013; Das w&#xF6;chentliche Update f&#xFC;r digitale Pioniere" xmlUrl="https://t3n-podcast.podigee.io/feed/mp3" htmlUrl="https://t3n-podcast.podigee.io/"/>
+      <outline type="rss" overcastId="821909" text="/dev/radio" title="/dev/radio" xmlUrl="https://www.ulm.ccc.de/dev/radio/podcast.xml" htmlUrl="http://ulm.ccc.de/dev/radio/"/>
+      <outline type="rss" overcastId="894498" text="Psychotalk" title="Psychotalk" xmlUrl="https://www.psycho-talk.de/feed/mp3/" htmlUrl="https://www.psycho-talk.de/"/>
+      <outline type="rss" overcastId="105533" text="Jung &amp; Naiv" title="Jung &amp; Naiv" xmlUrl="http://www.jungundnaiv-podcast.de/feed/mp3/" htmlUrl="https://www.jungundnaiv.de/"/>
+      <outline type="rss" overcastId="464477" text="The Random Scientist" title="The Random Scientist" xmlUrl="https://therandomscientist.de/feed/mp3/" htmlUrl="https://therandomscientist.de/"/>
+      <outline type="rss" overcastId="578965" text="Raumzeit" title="Raumzeit" xmlUrl="https://feeds.metaebene.me/raumzeit/mp3" htmlUrl="https://raumzeit-podcast.de/"/>
+      <outline type="rss" overcastId="942" text="Einschlafen Podcast" title="Einschlafen Podcast" xmlUrl="http://einschlafen-podcast.de/feed/mp3/" htmlUrl="http://einschlafen-podcast.de/"/>
+      <outline type="rss" overcastId="636618" text="Radio (In)Security" title="Radio (In)Security" xmlUrl="https://insecurity.radio.fm/feed/mp3/" htmlUrl="https://insecurity.radio.fm/"/>
+      <outline type="rss" overcastId="19439" text="Mein Freund der Baum - das B&#xFC;cherradio mit Andreas Baum &amp; Andi Arbeit" title="Mein Freund der Baum - das B&#xFC;cherradio mit Andreas Baum &amp; Andi Arbeit" xmlUrl="https://www.kuechenstud.io/mein-freund-der-baum/feed/mp3/" htmlUrl="https://www.kuechenstud.io/mein-freund-der-baum"/>
+      <outline type="rss" overcastId="995543" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" htmlUrl="https://darknetdiaries.com/"/>
+      <outline type="rss" overcastId="1011296" text="Chaosradio" title="Chaosradio" xmlUrl="https://chaosradio.de/feed/m4a" htmlUrl="https://chaosradio.de/"/>
+      <outline type="rss" overcastId="1102728" text="Living With Cystic Fibrosis" title="Living With Cystic Fibrosis" xmlUrl="https://feeds.simplecast.com/9p8q_0Xo" htmlUrl="http://thebonnellfoundation.org/"/>
+      <outline type="rss" overcastId="874" text="Alternativlos" title="Alternativlos" xmlUrl="http://alternativlos.org/alternativlos.rss" htmlUrl="http://www.alternativlos.org/"/>
+      <outline type="rss" overcastId="509943" text="Forschergeist" title="Forschergeist" xmlUrl="https://feeds.metaebene.me/forschergeist/mp3" htmlUrl="https://forschergeist.de/"/>
+      <outline type="rss" overcastId="716622" text="C-RadaR" title="C-RadaR" xmlUrl="https://www.c-radar.de/feed/podcast/" htmlUrl="https://www.c-radar.de/"/>
+      <outline type="rss" overcastId="1168104" text="Lage der Nation - der Politik-Podcast aus Berlin" title="Lage der Nation - der Politik-Podcast aus Berlin" xmlUrl="https://feeds.lagedernation.org/feeds/ldn-aac.xml" htmlUrl="https://lagedernation.org/"/>
+      <outline type="rss" overcastId="1388221" text="Der Lautsprecher" title="Der Lautsprecher" xmlUrl="https://feeds.metaebene.me/lautsprecher/mp3" htmlUrl="https://der-lautsprecher.de/"/>
+      <outline type="rss" overcastId="1956907" text="c&#x2019;t uplink" title="c&#x2019;t uplink" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t+uplink"/>
+      <outline type="rss" overcastId="3278040" text="Hoaxilla - Der skeptische Podcast" title="Hoaxilla - Der skeptische Podcast" xmlUrl="https://feeds.hoaxilla.com/hoaxilla" htmlUrl="http://www.hoaxilla.com/"/>
+      <outline type="rss" overcastId="437295" text="Request for Comments" title="Request for Comments" xmlUrl="https://requestforcomments.de/feed/mp3" htmlUrl="https://requestforcomments.de/"/>
+      <outline type="rss" overcastId="509940" text="Wir. M&#xFC;ssen Reden" title="Wir. M&#xFC;ssen Reden" xmlUrl="https://wir.muessenreden.de/feed/podcast-mp3/" htmlUrl="https://wir.muessenreden.de/"/>
+      <outline type="rss" overcastId="550258" text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" xmlUrl="https://feeds.metaebene.me/cre/mp3" htmlUrl="https://cre.fm/"/>
+      <outline type="rss" overcastId="763478" text="Einmischen! Politik Podcast" title="Einmischen! Politik Podcast" xmlUrl="https://podcaste97de5.podigee.io/feed/mp3" htmlUrl="https://podcaste97de5.podigee.io/"/>
+      <outline type="rss" overcastId="1044022" text="Chaosradio" title="Chaosradio" xmlUrl="https://chaosradio.de/feed/mp3" htmlUrl="https://chaosradio.de/"/>
+      <outline type="rss" overcastId="2188864" text="Sickboy" title="Sickboy" xmlUrl="https://www.cbc.ca/podcasting/includes/sickboy.xml" htmlUrl="http://www.cbc.ca/podcasts"/>
+      <outline type="rss" overcastId="2228244" text="Lobo &#x2013; Der Debatten-Podcast" title="Lobo &#x2013; Der Debatten-Podcast" xmlUrl="https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/008f004b-055e-4e0c-9fd0-abc000ffb04a/3b93bc3f-52cb-4a3b-91ef-abc000ffb053/podcast.rss" htmlUrl="http://www.spiegel.de/thema/sascha_lobo_podcast/"/>
+      <outline type="rss" overcastId="2820499" text="Nachtschatten - Der Podcast &#xFC;ber Drogen und Nachtleben" title="Nachtschatten - Der Podcast &#xFC;ber Drogen und Nachtleben" xmlUrl="https://nachtschatten.podigee.io/feed/mp3" htmlUrl="https://www.sunshine-live.de/"/>
+      <outline type="rss" overcastId="3869740" text="C3D2 Podcast" title="C3D2 Podcast" xmlUrl="https://c3d2.de/podcast.xml" htmlUrl="https://www.c3d2.de/"/>
+      <outline type="rss" overcastId="615539" text="1337@kultur:~$" title="1337@kultur:~$" xmlUrl="https://1337kultur.de/feed/podcast/" htmlUrl="https://1337kultur.de/"/>
+      <outline type="rss" overcastId="3626617" text="omega tau science &amp; engineering podcast" title="omega tau science &amp; engineering podcast" xmlUrl="http://omegataupodcast.net/feed/mp3/" htmlUrl="http://omegataupodcast.net/"/>
+      <outline type="rss" overcastId="1526404" text="Die Neue Norm" title="Die Neue Norm" xmlUrl="https://feeds.br.de/die-neue-norm/feed.xml" htmlUrl="https://www.br.de/mediathek/podcast/die-neue-norm/827"/>
+      <outline type="rss" overcastId="2038275" text="Alias Fernsehpodcast" title="Alias Fernsehpodcast" xmlUrl="https://alias-podcast.de/feed/mp3/" htmlUrl="https://alias-podcast.de/"/>
+      <outline type="rss" overcastId="2969960" text="Methodisch inkorrekt!" title="Methodisch inkorrekt!" xmlUrl="https://minkorrekt.podigee.io//feed/mp3" htmlUrl="http://www.minkorrekt.de/"/>
+      <outline type="rss" overcastId="509942" text="Fokus Europa" title="Fokus Europa" xmlUrl="https://feeds.metaebene.me/fokuseuropa/mp3" htmlUrl="https://fokus-europa.de/"/>
+      <outline type="rss" overcastId="1047809" text="Segfault.fm" title="Segfault.fm" xmlUrl="https://segfault.fm/feed/mp3.xml" htmlUrl="https://segfault.fm/"/>
+      <outline type="rss" overcastId="1077061" text="Soziopod (Soziologie, Philosophie, soziale Arbeit, Wissenschaft, P&#xE4;dagogik)" title="Soziopod (Soziologie, Philosophie, soziale Arbeit, Wissenschaft, P&#xE4;dagogik)" xmlUrl="https://soziopod.de/feed/podcast/" htmlUrl="https://soziopod.de/"/>
+      <outline type="rss" overcastId="1460524" text="Die Neuen Zwanziger" title="Die Neuen Zwanziger" xmlUrl="https://neuezwanziger.de/feed/mp3/" htmlUrl="https://neuezwanziger.de/"/>
+      <outline type="rss" overcastId="2839110" text="T&#xF6;dliche Oberpfalz" title="T&#xF6;dliche Oberpfalz" xmlUrl="https://podcastfeed.onetz.de/feed/podcast/toedliche_oberpfalz" htmlUrl="https://www.onetz.de/themen/toedliche-oberpfalz-podcast"/>
+      <outline type="rss" overcastId="3238778" text="Speak 1337" title="Speak 1337" xmlUrl="https://anchor.fm/s/c821b10/podcast/rss" htmlUrl="https://www.the-morpheus.de/"/>
+      <outline type="rss" overcastId="3322230" text="LANZ &amp; PRECHT" title="LANZ &amp; PRECHT" xmlUrl="https://lanz-precht.podigee.io/feed/mp3" htmlUrl="https://www.zdf.de/"/>
+      <outline type="rss" overcastId="3869741" text="Staatsb&#xFC;rgerkunde" title="Staatsb&#xFC;rgerkunde" xmlUrl="https://plus.podlove.org/f/www/staatsbuergerkunde/podcast/de/mp3/rss" htmlUrl="https://www.staatsbuergerkunde-podcast.de/archive"/>
+      <outline type="rss" overcastId="38723" text="Klabautercast" title="Klabautercast" xmlUrl="https://klabautercast.de/feed/podcast/" htmlUrl="https://klabautercast.de/"/>
+      <outline type="rss" overcastId="517844" text="Logbuch:Netzpolitik" title="Logbuch:Netzpolitik" xmlUrl="https://feeds.metaebene.me/lnp/mp3" htmlUrl="https://logbuch-netzpolitik.de/"/>
+      <outline type="rss" overcastId="553526" text="Neusprechfunk &#x2013; neusprech.org" title="Neusprechfunk &#x2013; neusprech.org" xmlUrl="https://neusprech.org/kategorie/neusprechfunk/feed/" htmlUrl="https://neusprech.org/"/>
+      <outline type="rss" overcastId="619952" text="Tech &amp; Tonic" title="Tech &amp; Tonic" xmlUrl="https://techundtonic.de/feed/podcast" htmlUrl="https://techundtonic.de/"/>
+      <outline type="rss" overcastId="1712457" text="Sendegarten" title="Sendegarten" xmlUrl="https://www.sendegarten.de/feed/mp3/" htmlUrl="https://www.sendegarten.de/"/>
+      <outline type="rss" overcastId="2897583" text="Genusscast Podcast" title="Genusscast Podcast" xmlUrl="https://www.genusscast.de/feed/mp3/" htmlUrl="https://www.genusscast.de/"/>
+
+    </outline>
+  </body>
+</opml>
